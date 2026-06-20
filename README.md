@@ -1,16 +1,18 @@
-## Hi there 👋
+# Bella Zee
 
-<!--
-**bellaa8843-4FNet/bellaa8843-4FNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital Content Creator | Technology Enthusiast | Blogger at 4FNet
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about technology, digital trends, and online resources. Sharing useful insights, guides, and quality content through 4FNet.
+
+🌐 Website: https://4fnet.to
+
+📍 Karachi, Pakistan
+
+🏢 Company: 4FNet
+
+## Connect
+
+- Website: https://4fnet.to
+- LinkedIn: https://www.linkedin.com/in/4fnet-bella/
